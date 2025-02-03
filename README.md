@@ -1,3 +1,5 @@
+<img src="https://khalil.rf.gd/img/header_bg.jpg" alt="Alt text" style="width:100%; height:auto;">
+
 # CRM Telegram Bot for Educational Centers
 
 ## 📌 Description
@@ -42,11 +44,11 @@ pip install -r requirements.txt
 ### Set up environment variables:
 In the `.env` file, add the following lines, replacing the values with your own:
 ```ini
-API_ID=29586910  # Your API ID
-API_HASH=5937975a3d8ab904b7f7a834cafe4076  # Your API Hash
-TOKEN=7919609778:AAG2mlNACnBw-ApWgIikjxX8YiSrzwKmtVQ  # Your bot's token
-BOT_LINK=uzadmincrm_bot  # Your bot's link
-DEV=1624466663  # Your Telegram ID (or Developer ID)
+API_ID = 'API_ID'
+API_HASH = 'API_HASH'
+TOKEN = 'YOUR_TOKEN'
+BOT_LINK = 'BOT_LINK'
+DEV = 'DEV_ID' #Khal1l_0
 ```
 
 ### Run the bot:
