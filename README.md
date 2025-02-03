@@ -1,4 +1,4 @@
-<img src="https://khalil.rf.gd/img/header_bg.jpg" alt="Alt text" style="width:100%; height:auto;">
+![Bg](https://github.com/Khal1l-0/CRM-Telegram-Bot/blob/master/tg_bg.jpg)
 
 # CRM Telegram Bot for Educational Centers
 
