@@ -1,0 +1,5 @@
+env
+BlackDuke_bot.session
+BlackDuke_bot.session-journal
+database.db
+test.py
