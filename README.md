@@ -25,7 +25,7 @@ The bot supports three languages: Russian, English, and Uzbek.
 💡 For stable bot operation, it is recommended to add subjects and teachers through the CEO role, and then proceed with administrative tasks.
 
 ## 🔧 Technologies Used
-- **Python + Aiogram** — for interacting with the Telegram API.
+- **Python + Aiogram + Pyrogram** — for interacting with the Telegram API.
 - **Pillow** — for certificate generation.
 - **SQLite** — database for storing information.
 
